@@ -1,7 +1,7 @@
 # 👨‍💻 Denys Bonfim
 
  Computer Science Student
- Future 42 Common Core Student
+ 42 Common Core Student
  Passionate about Software Development, Systems and Problem Solving
 
 ---
@@ -31,16 +31,6 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge\&logo=linux\&logoColor=black)
-
----
-
-##  GitHub Stats
-
-![Denys GitHub stats](https://github-readme-stats.vercel.app/api?username=denysBonfim\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denysBonfim\&layout=compact\&theme=tokyonight)
-
----
 
 ##  Current Focus
 
