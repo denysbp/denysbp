@@ -1,8 +1,8 @@
 # 👨‍💻 Denys Bonfim
 
- *Computer Science Student
- *42 Common Core Student
- *Passionate about Software Development, Systems and Problem Solving
+ * Computer Science Student
+ * 42 Common Core Student
+ * Passionate about Software Development, Systems and Problem Solving
 
 ---
 ##  Tech Stack
