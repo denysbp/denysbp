@@ -1,21 +1,10 @@
 # 👨‍💻 Denys Bonfim
 
- Computer Science Student
- 42 Common Core Student
- Passionate about Software Development, Systems and Problem Solving
+ *Computer Science Student
+ *42 Common Core Student
+ *Passionate about Software Development, Systems and Problem Solving
 
 ---
-
-##  About Me
-
-* Studying Computer Science
-* Starting the 42 Common Core to strengthen low-level and system programming skills
-* Interested in Software Engineering, AI, and Systems
-* Constantly learning and improving
-* Focused on building real, practical projects
-
----
-
 ##  Tech Stack
 
 ### Languages
@@ -49,9 +38,3 @@
 * Continuously improve problem-solving skills
 
 ---
-
-##  Contact
-
-* GitHub: https://github.com/denysbp
-
-
